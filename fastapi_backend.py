@@ -12,7 +12,7 @@ def start_subprocess():
     global process
     # Start the subprocess in the background
     process = subprocess.Popen([
-        "python", "app.py", "dev"
+        "python", "realtime.py", "dev"
     ])
 
 @app.on_event("shutdown")
