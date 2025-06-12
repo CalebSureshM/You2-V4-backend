@@ -1,0 +1,11 @@
+livekit-agents[google,images]~=1.0,>=1.0.18
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv
+asyncio
+tavily-python     
+firecrawl-py
+google-generativeai
+mem0ai
+vecs
+fastapi
+uvicorn
